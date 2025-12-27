@@ -59,6 +59,10 @@ The dashboard allows dynamic filtering to analyze different employee segments an
 
 ### Role-Level Filtered View
 ![Role Filter View](Screenshots/filtered_view_role.png)
+![Dashboard Overview](dashboard_overview.jpg)
+![Department Filter View](filtered_view_department.jpg)
+![Role Filter View](filtered_view_role.jpg)
+
 
 ---
 
